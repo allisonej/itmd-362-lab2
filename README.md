@@ -1,6 +1,8 @@
 # itmd-362-lab2
 Organize and clean device
 
+-edited by 'atom editor'
+
 Windows shortcut keys about virtual desktops.(especially Win10)
 
 1. Create new virtual desktop : Windows key + Ctrl + D
